@@ -1,3 +1,6 @@
+## git ssh
+setup ssh key based on github's documentation
+
 ## Other Apps
 https://mockoon.com/#download
 Boostnote
