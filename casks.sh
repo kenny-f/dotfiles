@@ -12,7 +12,7 @@ brew cask install itsycal
 brew cask install google-chrome
 brew cask install google-backup-and-sync
 brew cask install licecap
-brew cask install karabiner-elements
 brew cask install telegram
+brew cask install karabiner-elements
 
 brew cleanup -s
