@@ -26,7 +26,7 @@ https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions
 --- ZSH ---
 syslink the zsh file from google drive
 - rename/delete original ~/.zshrc
-- ln -s ~/Google\ Drive/.zshrc ~/.zshrc
+- ln -s ~/Google\ Drive/zshrc ~/.zshrc
 
 
 --- SPOTLIGHT ---
