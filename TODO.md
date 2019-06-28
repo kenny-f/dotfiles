@@ -1,29 +1,3 @@
-## Homebrew
-```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
-brew install thefuck
-brew install yarn
-
-## Homebrew-Cask
-
-brew cask install alfred
-brew cask install 1password
-brew cask install keyboard-cleaner
-brew cask install spectacle
-brew cask install dropbox
-brew cask install iterm2
-brew cask install visual-studio-code
-brew cask install whatsapp
-brew cask install vlc
-brew cask install postman
-brew cask install itsycal
-brew cask install google-chrome
-brew cask install google-backup-and-sync
-
-## Cleanup brew 
-`brew cleanup -s`
-
-
-
 ## Other Apps
 https://mockoon.com/#download
 Boostnote
