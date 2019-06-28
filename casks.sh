@@ -15,4 +15,4 @@ brew cask install licecap
 brew cask install karabiner-elements
 brew cask install telegram
 
-brew cleanup
+brew cleanup -s
