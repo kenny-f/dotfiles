@@ -79,6 +79,15 @@ defaults write NSGlobalDomain com.apple.AppleMultitouchTrackpad FirstClickThresh
 defaults write NSGlobalDomain com.apple.AppleMultitouchTrackpad SecondClickThreshold -int 1
 
 ###############################################################################
+# Printing                                                                    #
+###############################################################################
+
+defaults write -g PMPrintingExpandedStateForPrint -bool true && \
+defaults write -g PMPrintingExpandedStateForPrint2 -bool true
+
+
+
+###############################################################################
 # Finder                                                                      #
 ###############################################################################
 
