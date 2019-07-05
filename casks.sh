@@ -14,5 +14,7 @@ brew cask install google-backup-and-sync
 brew cask install licecap
 brew cask install telegram
 brew cask install karabiner-elements
+brew cask install muzzle
+brew cask install shortcutdetective
 
 brew cleanup -s
