@@ -17,5 +17,6 @@ brew cask install karabiner-elements
 brew cask install muzzle
 brew cask install shortcutdetective
 brew cask install dash
+brew cask install android-file-transfer
 
 brew cleanup -s
