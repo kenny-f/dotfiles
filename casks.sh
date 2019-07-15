@@ -16,5 +16,6 @@ brew cask install telegram
 brew cask install karabiner-elements
 brew cask install muzzle
 brew cask install shortcutdetective
+brew cask install dash
 
 brew cleanup -s
