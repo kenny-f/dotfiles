@@ -10,6 +10,7 @@ brew cask install vlc
 brew cask install postman
 brew cask install itsycal
 brew cask install google-chrome
+brew cask install google-chrome-canary
 brew cask install google-backup-and-sync
 brew cask install licecap
 brew cask install telegram
