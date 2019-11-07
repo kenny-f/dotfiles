@@ -1,5 +1,6 @@
 brew cask install alfred
 brew cask install 1password
+brew cask install 1password-cli
 brew cask install keyboard-cleaner
 brew cask install spectacle
 brew cask install dropbox
