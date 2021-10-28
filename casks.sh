@@ -18,5 +18,6 @@ brew cask install telegram
 brew cask install muzzle
 brew cask install android-file-transfer
 brew cask install spotify
+brew install meetingbar
 
 brew cleanup -s
