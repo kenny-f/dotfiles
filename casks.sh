@@ -1,23 +1,21 @@
-brew cask install alfred
-brew cask install 1password
-brew cask install 1password-cli
-brew cask install keyboard-cleaner
-brew cask install spectacle
-brew cask install dropbox
-brew cask install iterm2
-brew cask install visual-studio-code
-brew cask install whatsapp
-brew cask install vlc
-brew cask install postman
-brew cask install itsycal
-brew cask install google-chrome
-brew tap homebrew/cask-versions && brew cask install google-chrome-canary
-brew cask install google-backup-and-sync
-brew cask install licecap
-brew cask install telegram
-brew cask install muzzle
-brew cask install android-file-transfer
-brew cask install spotify
+brew install alfred
+brew install 1password
+brew install 1password-cli
+brew install keyboard-cleaner
+brew install spectacle
+brew install iterm2
+brew install visual-studio-code
+brew install whatsapp
+brew install vlc
+brew install itsycal
+brew install google-chrome
+brew install google-chrome-canary
+brew install google-backup-and-sync
+brew install licecap
+brew install telegram
+brew install android-file-transfer
+brew install spotify
 brew install meetingbar
+brew install thefuck
 
 brew cleanup -s
