@@ -17,5 +17,7 @@ brew install android-file-transfer
 brew install spotify
 brew install meetingbar
 brew install thefuck
+brew install gitify
+
 
 brew cleanup -s
