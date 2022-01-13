@@ -18,6 +18,6 @@ brew install spotify
 brew install meetingbar
 brew install thefuck
 brew install gitify
-
+brew install alt-tab
 
 brew cleanup -s
