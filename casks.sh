@@ -19,5 +19,6 @@ brew install meetingbar
 brew install thefuck
 brew install gitify
 brew install alt-tab
+brew install --cask hiddenbar
 
 brew cleanup -s
