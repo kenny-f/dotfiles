@@ -1,24 +1,24 @@
-brew install alfred
-brew install 1password
-brew install 1password-cli
-brew install keyboard-cleaner
-brew install spectacle
-brew install iterm2
-brew install visual-studio-code
-brew install whatsapp
-brew install vlc
-brew install itsycal
-brew install google-chrome
-brew install google-chrome-canary
-brew install google-backup-and-sync
-brew install licecap
-brew install telegram
-brew install android-file-transfer
-brew install spotify
-brew install meetingbar
-brew install thefuck
-brew install gitify
-brew install alt-tab
+brew install --cask alfred
+brew install --cask 1password
+brew install --cask 1password-cli
+brew install --cask keyboard-cleaner
+brew install --cask spectacle
+brew install --cask iterm2
+brew install --cask visual-studio-code
+brew install --cask whatsapp
+brew install --cask vlc
+brew install --cask itsycal
+brew install --cask google-chrome
+brew install --cask google-chrome-canary
+brew install --cask google-backup-and-sync
+brew install --cask licecap
+brew install --cask telegram
+brew install --cask android-file-transfer
+brew install --cask spotify
+brew install --cask meetingbar
+brew install --cask thefuck
+brew install --cask gitify
+brew install --cask alt-tab
 brew install --cask hiddenbar
 
 brew cleanup -s
