@@ -2,7 +2,7 @@ brew install --cask alfred
 brew install --cask 1password
 brew install --cask 1password-cli
 brew install --cask keyboard-cleaner
-brew install --cask spectacle
+brew install --cask rectangle
 brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install --cask whatsapp
