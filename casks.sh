@@ -16,7 +16,7 @@ brew install --cask telegram
 brew install --cask android-file-transfer
 brew install --cask spotify
 brew install --cask meetingbar
-brew install --cask thefuck
+brew install thefuck
 brew install --cask gitify
 brew install --cask alt-tab
 brew install --cask hiddenbar
