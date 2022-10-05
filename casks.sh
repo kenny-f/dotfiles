@@ -21,5 +21,6 @@ brew install --cask gitify
 brew install --cask alt-tab
 brew install --cask hiddenbar
 brew install --cask stats
+brew install --cask shottr
 
 brew cleanup -s
