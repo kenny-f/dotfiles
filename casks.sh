@@ -17,7 +17,7 @@ brew install --cask android-file-transfer
 brew install --cask spotify
 brew install --cask meetingbar
 brew install thefuck
-brew install --cask gitify
+# brew install --cask gitify --- using https://neat.run/ instead
 brew install --cask alt-tab
 brew install --cask hiddenbar
 brew install --cask stats
