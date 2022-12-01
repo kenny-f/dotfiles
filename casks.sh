@@ -22,5 +22,6 @@ brew install --cask alt-tab
 brew install --cask hiddenbar
 brew install --cask stats
 brew install --cask shottr
+brew install --cask onyx
 
 brew cleanup -s
