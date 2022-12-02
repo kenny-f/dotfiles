@@ -23,5 +23,7 @@ brew install --cask hiddenbar
 brew install --cask stats
 brew install --cask shottr
 brew install --cask onyx
+brew install --cask tempbox
+brew install --cask latest
 
 brew cleanup -s
