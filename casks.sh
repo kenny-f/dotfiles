@@ -25,5 +25,6 @@ brew install --cask shottr
 brew install --cask onyx
 brew install --cask tempbox
 brew install --cask latest
+brew install --cask obsidian
 
 brew cleanup -s
