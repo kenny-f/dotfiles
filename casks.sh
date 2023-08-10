@@ -26,5 +26,6 @@ brew install --cask onyx
 brew install --cask tempbox
 brew install --cask latest
 brew install --cask obsidian
+brew install --cask imageoptim
 
 brew cleanup -s
