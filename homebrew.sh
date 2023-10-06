@@ -2,3 +2,4 @@
 
 brew install thefuck
 brew install jq
+brew install bruno
