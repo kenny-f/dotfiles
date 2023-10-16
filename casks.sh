@@ -27,5 +27,6 @@ brew install --cask tempbox
 brew install --cask latest
 brew install --cask obsidian
 brew install --cask imageoptim
+brew install --cask synologyassistant
 
 brew cleanup -s
