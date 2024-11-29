@@ -28,5 +28,6 @@ brew install --cask latest
 brew install --cask obsidian
 brew install --cask imageoptim
 brew install --cask synologyassistant
+brew install --cask clop
 
 brew cleanup -s
